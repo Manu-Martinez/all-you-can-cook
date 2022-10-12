@@ -2,7 +2,7 @@ const Recipe = () => {
   return (
     <div>
       <h1>Recipe</h1>
-      <p>L</p>
+      <p>Lorem ipsum sfdfsdfsdfs</p>
     </div>
   );
 };
