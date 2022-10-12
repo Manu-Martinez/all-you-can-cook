@@ -4,9 +4,8 @@ const Navbar = () => {
       <div className="logo">
         <h1>All you can cook</h1>
       </div>
-      <a>Home</a>
-      <a>Recipe</a>
-      <a>About</a>
+      <link href="/" /><a>Home</a>
+	  <link href="/recipe" /><a>Recipe</a>
     </nav>
   );
 };
